@@ -38,8 +38,10 @@ If you think this work is useful for your research, please cite the following pa
   title={LNNet: Lightweight Nested Network for motion deblurring},
   author={Guo, Cai and Wang, Qian and Dai, Hong-Ning and Wang, Hao and Li, Ping},
   journal={Journal of Systems Architecture},
+  volume = {129},
   pages={102584},
   year={2022},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.sysarc.2022.102584}
 }
 ```
